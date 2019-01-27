@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
+      title: 'PiBytes',
       description: 'Static Blog System - Built with Ember',
       coverImage: '/images/blog-cover.jpg',
 
